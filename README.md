@@ -35,7 +35,3 @@ This project transforms raw transaction and customer data from a SQL database in
 By centralizing transaction and customer data into a single interactive view, this dashboard helped streamline reporting workflows and gave stakeholders faster, clearer visibility into key financial performance metrics.
 
 ---
-
-## 📌 Notes
-
-*Add screenshots, a live demo link, or setup instructions here if available.*
